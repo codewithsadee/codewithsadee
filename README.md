@@ -1,4 +1,4 @@
-### Hello World 👋
+# Hello Guys 👋
 I am a fullstack software engineer from bangladesh
 
 - 🔭 Working on multiple frontend and backend project using javaScript and Nodejs
@@ -27,6 +27,7 @@ I am a fullstack software engineer from bangladesh
 <img align="left" alt="nodejs" src="https://img.shields.io/badge/node.js-3c873a?style=for-the-badge&logo=node.js&logoColor=3c873a&colorA=eeeeee&colorB=3c873a" />
 <img align="left" alt="git" src="https://img.shields.io/badge/git-f34f29?&style=for-the-badge&logo=git&logoColor=f34f29&colorA=eeeeee&colorB=f34f29" />
 <img align="left" alt="vim" src="https://img.shields.io/badge/vim-009900?&style=for-the-badge&logo=vim&logoColor=009900&colorA=eeeeee&colorB=009900" />
+<img align="left" alt="vscode" src="https://img.shields.io/badge/vscode-0078d7?style=for-the-badge&logo=visualstudiocode&logoColor=0078d7&colorA=eeeeee&colorB=0078d7" />
 
 <br>
 <br>
