@@ -25,7 +25,7 @@ I am a fullstack software engineer from bangladesh
 <img align="left" alt="sass" src="https://img.shields.io/badge/sass-cc6699?&style=for-the-badge&logo=sass&logoColor=ffffff" />
 <img align="left" alt="javaScript" src="https://img.shields.io/badge/javascript-f0db4f?&style=for-the-badge&logo=javascript&logoColor=323330" />
 <img align="left" alt="nodejs" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
-<img align="left" alt="git" src="https://img.shields.io/badge/git-ffffff?&style=for-the-badge&logo=git&logoColor=f34f29&colorB=f34f29&colorA=ffffff" />
+<img align="left" alt="git" src="https://img.shields.io/badge/git-ffffff?&style=for-the-badge&logo=git&logoColor=f34f29&colorB=f34f29&colorA=eeeeee" />
 
 <br>
 <br>
