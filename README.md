@@ -20,16 +20,15 @@ I am a fullstack software engineer from bangladesh
 
 ## Expertise
 
-<img align="left" alt="html5" src="https://img.shields.io/badge/html5-f06529?&style=for-the-badge&logo=html5&logoColor=f06529&colorA=eeeeee&colorB=f06529" />
-<img align="left" alt="css3" src="https://img.shields.io/badge/css3-2965f1?&style=for-the-badge&logo=css3&logoColor=2965f1&colorA=eeeeee&colorB=2965f1" />
-<img align="left" alt="sass" src="https://img.shields.io/badge/sass-cd6799?&style=for-the-badge&logo=sass&logoColor=cd6799&colorA=eeeeee&colorB=cd6799" />
-<img align="left" alt="javaScript" src="https://img.shields.io/badge/javascript-f0db4f?&style=for-the-badge&logo=javascript&logoColor=323330&colorA=eeeeee&colorB=f0db4f" />
-<img align="left" alt="nodejs" src="https://img.shields.io/badge/node.js-3c873a?style=for-the-badge&logo=node.js&logoColor=3c873a&colorA=eeeeee&colorB=3c873a" />
-<img align="left" alt="git" src="https://img.shields.io/badge/git-f34f29?&style=for-the-badge&logo=git&logoColor=f34f29&colorA=eeeeee&colorB=f34f29" />
-<img align="left" alt="vim" src="https://img.shields.io/badge/vim-009900?&style=for-the-badge&logo=vim&logoColor=009900&colorA=eeeeee&colorB=009900" />
-<img align="left" alt="vscode" src="https://img.shields.io/badge/vscode-0078d7?style=for-the-badge&logo=visualstudiocode&logoColor=0078d7&colorA=eeeeee&colorB=0078d7" />
+![html5](https://img.shields.io/badge/html5-f06529?&style=for-the-badge&logo=html5&logoColor=f06529&colorA=eeeeee&colorB=f06529)
+![css3](https://img.shields.io/badge/css3-2965f1?&style=for-the-badge&logo=css3&logoColor=2965f1&colorA=eeeeee&colorB=2965f1)
+![SasS](https://img.shields.io/badge/sass-cd6799?&style=for-the-badge&logo=sass&logoColor=cd6799&colorA=eeeeee&colorB=cd6799)
+![javaScript](https://img.shields.io/badge/javascript-f0db4f?&style=for-the-badge&logo=javascript&logoColor=323330&colorA=eeeeee&colorB=f0db4f)
+![nodejs](https://img.shields.io/badge/node.js-3c873a?style=for-the-badge&logo=node.js&logoColor=3c873a&colorA=eeeeee&colorB=3c873a)
+![git](https://img.shields.io/badge/git-f34f29?&style=for-the-badge&logo=git&logoColor=f34f29&colorA=eeeeee&colorB=f34f29)
+![vim](https://img.shields.io/badge/vim-009900?&style=for-the-badge&logo=vim&logoColor=009900&colorA=eeeeee&colorB=009900)
+![vscode](https://img.shields.io/badge/vscode-0078d7?style=for-the-badge&logo=visualstudiocode&logoColor=0078d7&colorA=eeeeee&colorB=0078d7)
 
-<br>
 <br>
 
 ##  &#x1F4CA; GitHub Stats
