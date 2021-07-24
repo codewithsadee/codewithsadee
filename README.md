@@ -1,7 +1,7 @@
 # Hello Guys 👋
 I am a `fullstack` software engineer from `Bangladesh`
 
-- 🔭 Working on multiple frontend and backend project using javaScript and Nodejs
+- 🗃️ Working on multiple frontend and backend project using javaScript and Nodejs
 - 🎯 Learning javaScript in depth
 <br>
 
