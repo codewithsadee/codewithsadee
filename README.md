@@ -1,11 +1,11 @@
 # Hello Guys 👋
-I am a fullstack software engineer from bangladesh
+I am a `fullstack` software engineer from `Bangladesh`
 
 - 🔭 Working on multiple frontend and backend project using javaScript and Nodejs
-- 🌱 Learning javaScript in depth
+- 🎯 Learning javaScript in depth
 <br>
 
-## Connect with me
+## 📞 Connect with me
 
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/mohammad-sadee-228306203/)
 
@@ -18,7 +18,7 @@ I am a fullstack software engineer from bangladesh
 <br>
 <br>
 
-## Expertise
+## 🎓 Expertise
 
 ![html5](https://img.shields.io/badge/html5-f06529?&style=for-the-badge&logo=html5&logoColor=f06529&colorA=eeeeee&colorB=f06529)
 ![css3](https://img.shields.io/badge/css3-2965f1?&style=for-the-badge&logo=css3&logoColor=2965f1&colorA=eeeeee&colorB=2965f1)
@@ -32,21 +32,16 @@ I am a fullstack software engineer from bangladesh
 <br>
 
 ##  &#x1F4CA; GitHub Stats
-<!--
-![Mohammad sadee's GitHub stats](https://github-readme-stats.vercel.app/api?username=codewithsadee&show_icons=true&theme=blue-green&count_private=true&hide_border=true&border_radius=10&custom_title=Github%20Stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codewithsadee&layout=compact&theme=blue-green&hide_border=true&border_radius=10&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
--->
 
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=codewithsadee&show_icons=true&theme=blue-green&count_private=true&hide_border=true&border_radius=10&custom_title=Github%20Stats&hide=prs" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=codewithsadee&show_icons=true&theme=ayu-mirage&count_private=true&hide_border=true&border_radius=10&custom_title=Github%20Stats&hide=prs" />
 </a>
 
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithsadee&layout=compact&theme=blue-green&hide_border=true&border_radius=10&count_private=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithsadee&layout=compact&theme=ayu-mirage&hide_border=true&border_radius=10&count_private=true" />
 </a>
 
 <br>
 <br>
 
-[![Mohammad Sadee's Code Stats](https://github-readme-stats.vercel.app/api/wakatime?username=@codewithsadee&layout=compact&theme=blue-green&hide_border=true&border_radius=10&custom_title=Code%20Stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Mohammad Sadee's Code Stats](https://github-readme-stats.vercel.app/api/wakatime?username=@codewithsadee&layout=compact&theme=ayu-mirage&hide_border=true&border_radius=10&custom_title=Code%20Stats)](https://github.com/anuraghazra/github-readme-stats)
