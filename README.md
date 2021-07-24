@@ -28,6 +28,7 @@ I am a `fullstack` software engineer from `Bangladesh`
 ![javaScript](https://img.shields.io/badge/javascript-f0db4f?&style=for-the-badge&logo=javascript&logoColor=323330&colorA=eeeeee&colorB=f0db4f)
 ![nodejs](https://img.shields.io/badge/node.js-3c873a?style=for-the-badge&logo=node.js&logoColor=3c873a&colorA=eeeeee&colorB=3c873a)
 ![git](https://img.shields.io/badge/git-f34f29?&style=for-the-badge&logo=git&logoColor=f34f29&colorA=eeeeee&colorB=f34f29)
+![github](https://img.shields.io/badge/github-1d202d?style=for-the-badge&logo=github&logoColor=1d202d&colorA=eeeeee&colorB=1d202d)
 ![vim](https://img.shields.io/badge/vim-009900?&style=for-the-badge&logo=vim&logoColor=009900&colorA=eeeeee&colorB=009900)
 ![vscode](https://img.shields.io/badge/vscode-0078d7?style=for-the-badge&logo=visualstudiocode&logoColor=0078d7&colorA=eeeeee&colorB=0078d7)
 
