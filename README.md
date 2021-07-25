@@ -31,6 +31,9 @@ I am a `fullstack` software engineer from `Bangladesh`
 
 ### Backend
 > ![nodejs](https://img.shields.io/badge/node.js-3c873a?style=for-the-badge&logo=node.js&logoColor=3c873a&colorA=eeeeee&colorB=3c873a)
+> ![json](https://img.shields.io/badge/%7Bjson%7D-brightgreen?style=for-the-badge&logo=json&logoColor=444444&colorA=eeeeee&colorB=000000)
+> ![angular](https://img.shields.io/badge/angular-a6120d?style=for-the-badge&logo=angular&logoColor=a6120d&colorA=eeeeee&colorB=a6120d)
+> ![mongoDB](https://img.shields.io/badge/mongodb-a6120d?style=for-the-badge&logo=mongodb&logoColor=3fa037&colorA=eeeeee&colorB=3fa037)
 
 ### Others
 > ![git](https://img.shields.io/badge/git-f34f29?&style=for-the-badge&logo=git&logoColor=f34f29&colorA=eeeeee&colorB=f34f29)
