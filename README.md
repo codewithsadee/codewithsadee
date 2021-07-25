@@ -40,6 +40,7 @@ I am a `fullstack` software engineer from `Bangladesh`
 > ![github](https://img.shields.io/badge/github-1d202d?style=for-the-badge&logo=github&logoColor=1d202d&colorA=eeeeee&colorB=1d202d)
 > ![vim](https://img.shields.io/badge/vim-009900?&style=for-the-badge&logo=vim&logoColor=009900&colorA=eeeeee&colorB=009900)
 > ![vscode](https://img.shields.io/badge/vscode-0078d7?style=for-the-badge&logo=visualstudiocode&logoColor=0078d7&colorA=eeeeee&colorB=0078d7)
+> ![docker](https://img.shields.io/badge/docker-a6120d?style=for-the-badge&logo=docker&logoColor=0db7ed&colorA=eeeeee&colorB=0db7ed)
 
 <br>
 
