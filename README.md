@@ -1,5 +1,5 @@
 # Hello Guys 👋
-I am **JavaScript Junior Engineer** from **Bangladesh**
+I am **JavaScript Junior Engineer**
 
 - 🗃️ Working on multiple frontend and backend project using javaScript and Nodejs
 - 🎯 Learning javaScript in depth
