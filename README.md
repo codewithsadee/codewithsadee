@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-I'm **Sadee**, a passionate **Full-Stack Developer** with a love for coding, learning, and exploring the latest in web technologies. Based in **Bangladesh**, I specialize in creating robust, scalable applications using the **MERN stack** and other modern technologies.  
+I'm **Sadee**, a passionate **Full-Stack Developer** with a love for coding, learning, and exploring the latest in web technologies, I specialize in creating robust, scalable applications using the **MERN stack** and other modern technologies.  
 
 As the **Founder & CEO** of **codewithsadee**, I aim to empower developers through **comprehensive, step-by-step tutorials** on YouTube.
 
