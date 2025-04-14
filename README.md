@@ -12,7 +12,7 @@ As the **Founder & CEO** of **codewithsadee**, I aim to empower developers throu
 - **Backend:** Node.js, Express, Appwrite  
 - **Database:** MongoDB
 - **Authentication:** Clerk, JWT
-- **AI & Machine Learning:** Gemini API, OpenAI
+- **AI Engineering:** Gemini API, OpenAI
 - **Other Tools:** Vite, VS Code, Git, Vercel
 
 ## 📢 Get Involved
